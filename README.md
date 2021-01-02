@@ -53,6 +53,7 @@ bash等を利用することが前提です。windowsユーザーの場合はgit
     <li>pg_hbaをコメントに従って書き換える</li>
     <li>initializer.shをコメントに従って書き換える</li>
     <li>docker/php下のDockerfileをコメントに従って書き換える</li>
+    <li>.envファイルを忘れない！</li>
 </ol>
 
 <h1>環境構築時参考URL（CentOS）</h1>
